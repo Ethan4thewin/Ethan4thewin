@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Ethan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- In the near future, I'll update this more.
+- 🌱 I’m currently learning all things data science.
+- 💞️ I’m looking to collaborate on many opportunities to come, if even possible.
+- 📫 How to reach me:
+    + phatnguyenground@gmail.com
+- In the near future, I'll update this more. Thanks for reading btw.
 
 <!---
 Ethan4thewin/Ethan4thewin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
