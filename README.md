@@ -3,6 +3,8 @@
 - 💞️ I’m looking to collaborate on many opportunities to come, if even possible.
 - 📫 How to reach me:
     + phatnguyenground@gmail.com
+    + https://www.linkedin.com/in/ethan-bradberry/
+    + ethanbradberry.notion.site
 - In the near future, I'll update this more. Thanks for reading btw.
 
 <!---
