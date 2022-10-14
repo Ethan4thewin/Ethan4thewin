@@ -4,7 +4,7 @@
 - 📫 How to reach me:
     + phatnguyenground@gmail.com
     + https://www.linkedin.com/in/ethan-bradberry/
-    + ethanbradberry.notion.site
+    + https://ethanbradberry.notion.site
 - In the near future, I'll update this more. Thanks for reading btw.
 
 <!---
