@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ethan
-- 🌱 I’m currently learning all things data science.
+- 🌱 I’m currently learning all things data science, as well as many other areas like Education, Logistics, or Video Games.
 - 💞️ I’m looking to collaborate on many opportunities to come, if even possible.
 - 📫 How to reach me:
     + phatnguyenground@gmail.com
