@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Ethan
-- 🌱 I’m currently learning all things data science, as well as many other areas like Education, Logistics, or Video Games.
+- 🌱 I’m currently learning all things data science & AI, as well as many other areas like Education, Logistics, or Video Games.
 - 💞️ I’m looking to collaborate on many opportunities to come, if even possible.
 - 📫 How to reach me:
-    + phatnguyenground@gmail.com
-    + https://www.linkedin.com/in/ethan-bradberry/
-    + https://ethanbyday.notion.site
+    + [My Email](phatnguyenground@gmail.com)
+    + [My LinkedIn](https://www.linkedin.com/in/ethan-by-day/)
+    + [My Personal Website](https://ethanbyday.notion.site)
 - In the near future, I'll update this more. Thanks for reading btw.
 
 <!---
