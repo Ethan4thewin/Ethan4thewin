@@ -4,7 +4,7 @@
 - 📫 How to reach me:
     + [My Email](phatnguyenground@gmail.com)
     + [My LinkedIn](https://www.linkedin.com/in/ethan-by-day/)
-    + [My Personal Website](https://ethanbyday.notion.site)
+    + [My Personal Website](https://ethan4thewin.github.io/index.html)
 - In the near future, I'll update this more. Thanks for reading btw.
 
 <!---
